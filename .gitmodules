@@ -1,0 +1,3 @@
+[submodule "bsp/stm32f407-shark"]
+	path = bsp/stm32f407-shark
+	url = git@github.com:yangxiang92/roboticshark.git
